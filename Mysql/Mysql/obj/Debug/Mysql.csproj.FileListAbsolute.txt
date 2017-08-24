@@ -1,0 +1,12 @@
+C:\Users\Umar\Desktop\MySqlDataBaseConnectivityC#\Mysql\Mysql\bin\Debug\Mysql.exe.config
+C:\Users\Umar\Desktop\MySqlDataBaseConnectivityC#\Mysql\Mysql\bin\Debug\Mysql.exe
+C:\Users\Umar\Desktop\MySqlDataBaseConnectivityC#\Mysql\Mysql\bin\Debug\Mysql.pdb
+C:\Users\Umar\Desktop\MySqlDataBaseConnectivityC#\Mysql\Mysql\bin\Debug\EntityFramework.dll
+C:\Users\Umar\Desktop\MySqlDataBaseConnectivityC#\Mysql\Mysql\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Umar\Desktop\MySqlDataBaseConnectivityC#\Mysql\Mysql\bin\Debug\MySql.Data.dll
+C:\Users\Umar\Desktop\MySqlDataBaseConnectivityC#\Mysql\Mysql\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Umar\Desktop\MySqlDataBaseConnectivityC#\Mysql\Mysql\bin\Debug\EntityFramework.xml
+C:\Users\Umar\Desktop\MySqlDataBaseConnectivityC#\Mysql\Mysql\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Umar\Desktop\MySqlDataBaseConnectivityC#\Mysql\Mysql\obj\Debug\Mysql.csprojResolveAssemblyReference.cache
+C:\Users\Umar\Desktop\MySqlDataBaseConnectivityC#\Mysql\Mysql\obj\Debug\Mysql.exe
+C:\Users\Umar\Desktop\MySqlDataBaseConnectivityC#\Mysql\Mysql\obj\Debug\Mysql.pdb
